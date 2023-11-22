@@ -11,7 +11,7 @@ Puedes ver los datos recibidos del hidrometro (Gravedad, temperatura, bateria) y
 ![PILLREPEATER_2](https://github.com/diyhomebrewers/PillRepeater/assets/77629780/4a526e24-00f4-488b-bd1a-6623d7e9f6ad)
 ![PILLREPEATER_1](https://github.com/diyhomebrewers/PillRepeater/assets/77629780/1e4f4afc-8413-4848-8560-2e4ad838ef9a)
 
-Este proyecto actualmente esta en desarrollo por www.diyhomebrewers.com
+Este proyecto actualmente esta en desarrollo por www.diyhomebrewers.com . Documentación en curso en GitHub, artículo de montaje y piezas necesarias por el momento en: https://www.diyhomebrewers.com/2023/11/pill-repeater-repetidor-para-el-rapt.html
 __________________________________________________________
 
 #PillRepeater
@@ -23,4 +23,4 @@ You can see the data received from the hydrometer (Gravity, temperature, battery
 - HTTP: BrewSpy.
 - Brewfather.
 
-This project is currently in development by www.diyhomebrewers.com
+This project is currently in development by www.diyhomebrewers.com . Documentation in progress on GitHub, assembly article and parts needed at the moment in: https://www.diyhomebrewers.com/2023/11/pill-repeater-repetidor-para-el-rapt.html
